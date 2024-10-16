@@ -14,8 +14,8 @@ The user is then prompted to provide
 new input, and so on, until the user enters quit.
 
 ## Excepted output:
-  *  >> 1 + 1
-    2.0
-  *  >> 3.2 - 1.5
-    1.7000000000000002
+  *  in>> 1 + 1
+   * out<< 2.0
+  *  in>> 3.2 - 1.5
+    * out 1.7000000000000002
     >> quit
