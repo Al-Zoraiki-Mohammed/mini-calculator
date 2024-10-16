@@ -1,5 +1,5 @@
 # mini-calculator
-""" Task:
+## Task:
 1. You're going to write an interactive calculator!
 User input is assumed to be a formula that consist of a number,
 an operator ( +, -, *, / and %), and another number, separated by white space (e.g. 1 + 1).
@@ -19,4 +19,3 @@ Excepted output:
     >> 3.2 - 1.5
     1.7000000000000002
     >> quit
-"""
